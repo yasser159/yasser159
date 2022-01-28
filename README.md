@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yasser159
-- 👀 I’m interested in IOS, CoreML, AR and IOT Development 
-- 🌱 I’m currently learning more about Swift and CoreML
-- 💞️ I’m looking to collaborate on anything cool
+- I’m interested in IOS, CoreML, AR and IOT Development 
+- Currently learning more about Swift and CoreML
+- I’m looking to collaborate on anything cool
 - 📫 How to reach me Yasser159@gmail.com
 
 <!---

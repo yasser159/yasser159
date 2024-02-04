@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasser159
-- I’m interested in Flutter, CoreML, AR and IOT 
+- I’m interested in React JS, CoreML, AR and IOT 
 - Currently learning more about Swift and CoreML
 - 📫 How to reach me Yasser159@gmail.com
 

@@ -3,14 +3,8 @@
 - Currently learning more about React Native.
 - 📫 How to reach me Yasser159@gmail.com
 
-![visitors](https://visitor-badge/badge?page_id=yasser159))
 
-
-
-![](https://komarev.com/ghpvc/?username=yasser159)
-
-
-![](https://komarev.com/ghpvc/?username=yasser159&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=yasser159&style=for-the-badge&color=green)
 
 <!---
 yasser159/yasser159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

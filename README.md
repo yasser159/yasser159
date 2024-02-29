@@ -3,7 +3,7 @@
 - Currently learning more about React Native.
 - 📫 How to reach me Yasser159@gmail.com
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yasser159.github.com/yasser159))
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yasser159)
 
 
 

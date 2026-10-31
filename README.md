@@ -16,10 +16,10 @@ I build native macOS and iOS apps in Swift/SwiftUI, web and mobile apps in React
 - [sprite-orientation-classifier](https://github.com/yasser159/sprite-orientation-classifier) — TensorFlow.js CNN, 148K params, runs in Node and the browser
 - [spritesmaker](https://github.com/yasser159/spritesmaker) — parametric aircraft and vessel sprites from Wikipedia specs
 - [Yanex](https://github.com/yasser159/Yanex) — React + Firebase starter with auth and a built-in diagnostics screen
-- [all_seeying_eye](https://github.com/yasser159/all_seeying_eye) — desktop diagnostics viewer for Expo/Metro logs
+- [all-seeing-eye](https://github.com/yasser159/all-seeing-eye) — desktop diagnostics viewer for Expo/Metro logs
 
 ## Stack
 
-Swift · SwiftUI · TypeScript · React · React Native · Expo · Node · Firebase · Flutter · TensorFlow.js · Godot
+Swift · SwiftUI · TypeScript · React · React Native · Expo · Node · Tauri · Firebase · TensorFlow.js
 
 📫 yasser159@gmail.com

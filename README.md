@@ -6,7 +6,7 @@ I ship software with AI coding agents doing the implementation. I decide what ge
 
 - [QR Media](https://apps.apple.com/us/app/qr-media/id1621676911) — QR code wallet and generator for iOS; keeps every code you have used and makes new ones from links or text · App Store
 - [MKV2MP4 Converter](https://apps.apple.com/us/app/id6796610448) — Sandboxed Mac App Store video converter with bundled ffmpeg; approved 2026-08-09 after one rejection · App Store
-- [Flight and vessel tracker](https://yanantir.web.app) — Real-time aircraft and vessel map on deck.gl with its own backend and a generated sprite set · live
+- [Flight tracker](https://yanantir.web.app) — Real-time aircraft map on deck.gl with its own backend and a generated sprite set · live
 - [ChineseFood](https://chinesefood-159.web.app) — Bilingual map and food-crawl planner for Chinese restaurants and groceries, with a forum · live
 - **FoodVoteToday** — Group meal voting for households and small teams; Apple and Google sign-in, in-app account deletion, privacy page. An AI fridge-scan feature (0.8) was cut before 1.0 as a scope and privacy decision · TestFlight
 - **Shopping Scout** — MCP server that turns Claude into a local shopping agent for Victoria
